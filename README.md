@@ -1,0 +1,2 @@
+# mary
+IRC chat summarizer
