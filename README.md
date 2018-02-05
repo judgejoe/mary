@@ -4,14 +4,14 @@ Mary is a python application which provides a sumMARY of your IRC session. Mary 
 # Dependencies
 Wordclouds are generated using the [WordCloud](https://github.com/amueller/word_cloud) Python module. Mary uses the following Python Standard Library modules:
 
-* time
-* signal  
-* string
-* os
-* operator
-* socket
-* asyncio
-* re
+```time
+signal  
+string
+os
+operator
+socket
+asyncio
+re```
 
 Mary was tested on the Python 3.6.3 interpreter so this version is recommended for execution.
 
