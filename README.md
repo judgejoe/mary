@@ -33,8 +33,8 @@ Mary can be executed on the command line using the python interpreter. Once runn
 * A wordcloud in .png format (wc.png in the directory that the script is running in)
 
 # Example
-`$ python mary.py`
-`$ killall -HUP python`
+```$ python mary.py
+$ killall -HUP python```
 Your wordcloud is saved as a png in the directory in which Mary is running.
 
 ![word cloud](https://raw.githubusercontent.com/judgejoe/mary/master/wc.png)
